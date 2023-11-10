@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_2" xmlns="http://www.w3.org/2000/svg" viewBox="178.24 0 178.23 181.17">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:#fff;}.cls-3{letter-spacing:-.04em;}.cls-4{letter-spacing:0em;}.cls-2{font-family:SourceSansPro-Regular,
+            'Source Sans Pro';font-size:16.05px;}.cls-5{fill:#af8a3c;}.cls-6{letter-spacing:-.05em;}
+            .cls-5 {
+
+            }
+        </style>
+    </defs>
+    <g id="Bg">
+
+        <polygon class="cls-5"
+                 points="
+                 356.47 90.27
+                 265.57 181.17
+                 265.09 180.49
+                 221.77 118.97
+                 178.36 57.33
+                 178.24 57.15
+                 192.52 36.73
+                 218.21 0
+                 302.52 0
+                 324.47 36.73
+                 354.82 87.51
+                 356.47 90.27
+            "/>
+    </g>
+</svg>
